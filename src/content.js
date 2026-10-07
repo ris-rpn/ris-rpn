@@ -141,7 +141,7 @@ function renderSupport(items, no) {
       ${p.ruangLingkup?.length ? `<div class="marquee marquee--big" aria-hidden="true"><div class="marquee__track">${marqueeItems(p.ruangLingkup)}</div></div>` : ''}
       <div class="container support__grid">
         <div class="support__text">
-          ${label(no, 'Pendukung Direktorat')}
+          ${label(no, 'Supporting Direktorat')}
           <h2 class="support__title" data-reveal="lines">${esc(p.unit)}</h2>
           ${p.deskripsi ? `<p class="support__desc" data-reveal="fade">${esc(p.deskripsi)}</p>` : ''}
           ${p.ruangLingkup?.length ? list(p.ruangLingkup, 'support__scope') : ''}
