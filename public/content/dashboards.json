@@ -1,0 +1,47 @@
+{
+  "_petunjuk": "Untuk menambah dashboard, salin satu blok { ... } lalu tempel setelah blok terakhir (pisahkan dengan koma). Wajib: 'judul' dan 'url'. 'url' diisi '#' bila belum ada link. Opsional: 'deskripsi', 'kategori', 'unit' ('ris' untuk tingkat direktorat, atau id pimpinan di organisasi.json: 'dori', 'dis', 'turis'), 'perluLogin' (true/false). 'aktif': false untuk menyembunyikan tanpa menghapus.",
+  "dashboard": [
+    {
+      "judul": "Dashboard Riset dan Peneliti",
+      "url": "https://script.google.com/macros/s/AKfycbzW6RhY1MdcJ7xlTGsp4fxRmVIJGyI0BVT73lsXYlPbUa5q2DhNe-cpNN6D1r-znORZ/exec",
+      "unit": "turis",
+      "perluLogin": true,
+      "aktif": true
+    },
+    {
+      "judul": "Dashboard Agenda RIS",
+      "url": "https://script.google.com/macros/s/AKfycbyVWxdU7ZIArahzJRF3CtfDwZmMUuHuQUSZC0firqBmnDbnAT4pNPIy4t6RU6hKAAAhQA/exec",
+      "unit": "turis",
+      "perluLogin": true,
+      "aktif": true
+    },
+    {
+      "judul": "Dashboard Manajemen Dokumen RIS",
+      "url": "https://script.google.com/macros/s/AKfycbzib7E4syaSLSkjgI3FKFEvhVJIr3AKc1lm_GlrAc5ZVnL7AVsNuoFKLcpBPOD7bJkp/exec",
+      "unit": "turis",
+      "perluLogin": true,
+      "aktif": true
+    },
+    {
+      "judul": "Dashboard Monitoring SPK / MoU",
+      "url": "https://script.google.com/macros/s/AKfycbzWb7RoSB8uRKdOByzXyV9x4yna9H8ywLzA0o8OhY6YMFqCKy_2A7by-2844OZTvOpbcg/exec",
+      "unit": "dori",
+      "perluLogin": false,
+      "aktif": true
+    },
+    {
+      "judul": "Dashboard DORI",
+      "url": "https://sites.google.com/view/operis-rpn/home?",
+      "unit": "dori",
+      "perluLogin": false,
+      "aktif": true
+    },
+    {
+      "judul": "Arsip Sub Divisi Inovasi",
+      "url": "https://sites.google.com/view/arsipsubdivisiinovasi/home",
+      "unit": "dis",
+      "perluLogin": false,
+      "aktif": true
+    }
+  ]
+}

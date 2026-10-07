@@ -1,0 +1,91 @@
+{
+  "_petunjuk": "Ubah isi di file ini untuk mengganti pejabat atau teks. Jangan hapus tanda kutip, koma, atau kurung. Field 'foto' boleh dikosongkan (\"\") — halaman akan menampilkan inisial nama. Lihat README.md untuk panduan lengkap.",
+  "diperbarui": "2026-10-07",
+
+  "perusahaan": {
+    "nama": "PT Riset Perkebunan Nusantara",
+    "singkatan": "RPN",
+    "logo": "img/logo/rpn-putih.webp",
+    "website": ""
+  },
+
+  "direktorat": {
+    "nama": "Direktorat Riset, Inovasi, dan Sustainability",
+    "singkatan": "RIS",
+    "komoditas": [
+      "Kelapa Sawit",
+      "Karet",
+      "Kopi",
+      "Kakao",
+      "Teh",
+      "Kina",
+      "Tebu"
+    ]
+  },
+
+  "pimpinan": [
+    {
+      "id": "sevp",
+      "tipe": "pimpinan",
+      "singkatan": "RIS",
+      "jabatan": "Senior Executive Vice President",
+      "singkatanJabatan": "SEVP RIS",
+      "unit": "Riset, Inovasi, dan Sustainability",
+      "nama": "Dr. Ir. Misnawi",
+      "foto": ""
+    },
+    {
+      "id": "dori",
+      "tipe": "divisi",
+      "singkatan": "DORI",
+      "jabatan": "Kepala Divisi",
+      "singkatanJabatan": "KADIV DORI",
+      "unit": "Divisi Operasional Riset",
+      "nama": "Dr. Sri Wening",
+      "foto": "",
+      "ruangLingkup": [
+        "Perencanaan dan Valuasi",
+        "Monitoring Riset Internal dan Eksternal",
+        "Monitoring Riset Unggulan PTPN",
+        "Fungsional Basis Data dan Diklat Peneliti"
+      ]
+    },
+    {
+      "id": "dis",
+      "tipe": "divisi",
+      "singkatan": "DIS",
+      "jabatan": "Kepala Divisi",
+      "singkatanJabatan": "KADIV DIS",
+      "unit": "Divisi Inovasi dan Sustainability",
+      "nama": "Dr. Riza Arief Putranto, D.E.A",
+      "foto": "",
+      "ruangLingkup": [
+        "Inovasi, Diseminasi dan Sustainability",
+        "Quality Control dan Quality Assurance"
+      ]
+    },
+    {
+      "id": "turis",
+      "tipe": "pendukung",
+      "singkatan": "TU RIS",
+      "jabatan": "Kepala Tata Usaha",
+      "singkatanJabatan": "KA. TU RIS",
+      "unit": "Tata Usaha RIS",
+      "nama": "Titik Widyasari, M.Sc",
+      "foto": "",
+      "deskripsi": "Pusat layanan administrasi direktorat — memastikan alur surat, agenda, dan dokumen pimpinan tertib dan cepat.",
+      "ruangLingkup": [
+        "Persuratan & kearsipan",
+        "Agenda & protokol pimpinan",
+        "Administrasi keuangan direktorat",
+        "Koordinasi rapat & pelaporan"
+      ]
+    }
+  ],
+
+  "kontak": {
+    "alamat": "Jl. Salak No.1A, RT.02/RW.03, Babakan, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16128",
+    "email": "",
+    "telepon": ""
+  }
+}
